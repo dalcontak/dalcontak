@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dalcontak
-- 👀 I’m interested in programming (Java, NetCore, Javascript) and architecture software (Microservices) and Flutter.
+- 👀 I’m interested in programming (Java, NetCore, Javascript), architecture software (Microservices) and Flutter.
 - 🌱 I’m currently learning mobile development, Flutter.
 - 💞️ I’m looking to collaborate on translation of docs.
 - 📫 How to reach me, in Twitter, @dalcont112
